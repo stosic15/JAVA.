@@ -22,3 +22,4 @@ public class InchesToCentrimenters extends ConsoleProgram {
 	private static final double CENTIMETRES_PER_FEET = 36.1;
 
 }
+//Chapter 3 exercise 1

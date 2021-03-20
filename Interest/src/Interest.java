@@ -17,4 +17,4 @@ public class Interest extends ConsoleProgram {
 	
 	
 }
-// Chapter 3 exercise 2
+// Chapter 3 exercise 2 and exercise 3 
