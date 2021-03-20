@@ -16,3 +16,4 @@ public class Average extends ConsoleProgram {
 	}
 
 }
+//Chapter 3 exercise 8
