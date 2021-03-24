@@ -4,17 +4,17 @@ public class Program extends ConsoleProgram{
 	public void run(){
 		
 		  int num = readInt("Enter a positive integer: ");
-		  int dnum = 0;
-		  int snum = 0;
+		  int revNum = 0;
+		  int xNum = 0;
 		  while(num > 0)
 		  {
-		   dnum *= 10;
-		   snum = num % 10;
-		   dnum += snum;
+		   revNum *= 10;
+		   xNum = num % 10;
+		   revNum += xNum;
 		   num = num / 10;
 		   
 		  }
-		  println("The reversed number is" + dnum);
+		  println("The reversed number is" + revNum);
 		 }
 
 		}
