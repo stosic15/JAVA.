@@ -33,5 +33,6 @@ public class Average extends ConsoleProgram {
 
 		
 	}
+//Chaprer 4 exercise 5
 
 
