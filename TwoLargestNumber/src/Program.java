@@ -7,7 +7,8 @@ public class Program extends ConsoleProgram {
 		int secondMax;
 		secondMax = Integer.MIN_VALUE;
 	    max  = Integer.MIN_VALUE;
-		value = readInt(" ?: ");
+		
+	    value = readInt(" ?: ");
 		while(value != STOP)
 		{
 			if (value > max)
